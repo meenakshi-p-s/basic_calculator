@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+.container{
+    width: 400px;
+    height: 540px;
+    background-color: rgb(5, 5, 73);
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+#result{
+    background-color: white;
+    height: 80px;
+    width: 377px;
+    border-radius: 10px;
+    margin: 5px;
+    font-size: 3rem;
+    text-align: right;
+}
+.button{
+   background-color: rgb(255, 255, 255); 
+   color: rgb(0, 0, 0);
+   width: 90px ;
+   height: 70px;
+   border-radius: 10px;
+   font-size: 2rem;
+   margin-top: 15px;
+   margin-left: 5px;
+
+}
+   
